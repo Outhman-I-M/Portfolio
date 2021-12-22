@@ -9,10 +9,10 @@
 
 Photo by Author
 
-This project gives detailed information about The Gambia Election 2021 Registration Statistics via an interatice map
+This project gives detailed information about The Gambia Election 2021 Registration Statistics via an interactive map
 * **Python libraries used:** Pandas, Geopandas, Plotly
 * **Input:** The Gambia Election 2021 Registration Statistics, The Gambia Administratrive Data Shapefile
-* **Output:** Interative map of number of registered voters, constituencies, and polling stations in each administrative area
+* **Output:** Interactive map of number of registered voters, constituencies, and polling stations in each administrative area
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
