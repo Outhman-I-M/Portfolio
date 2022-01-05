@@ -14,7 +14,17 @@ This project gives detailed information about The Gambia Election 2021 Registrat
 * **Input:** The Gambia Election 2021 Registration Statistics, The Gambia Administratrive Data Shapefile
 * **Output:** Interactive map of number of registered voters, constituencies, and polling stations in each administrative area
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2: Average Temperature in The Gambia, 1991-2020]
+![alt text](Gam_Temp_1991_2020.gif)
+
+Photo by Author
+
+This project aims to dispel the popular notion than October is the hottest month in The Gambia by showing the average monthly temperature from 1991 to 20020
+* **Python libraries used:** Pandas, Matplotlib.pyplot and Matplotlib.animation, Datetime
+* **Input:** Timeseries temperature data for The Gambia from World Bank Climate Knowledge Portal (https://climateknowledgeportal.worldbank.org/country/gambia/climate-data-historical)
+* **Output:** A GIF image showing average monhtly temperature over the reference period.
+
+# [Project 3: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
