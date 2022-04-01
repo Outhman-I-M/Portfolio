@@ -1,4 +1,4 @@
-# John Doe
+# Pa Ousman Ceesay
 *An Aspiring Data Analyst | Statistician by profession*
 
 # Education
@@ -23,13 +23,3 @@ This project aims to dispel the popular notion than October is the hottest month
 * **Python libraries used:** Pandas, Matplotlib.pyplot and Matplotlib.animation, Datetime
 * **Input:** Timeseries temperature data for The Gambia from World Bank Climate Knowledge Portal (https://climateknowledgeportal.worldbank.org/country/gambia/climate-data-historical)
 * **Output:** A GIF image showing average monthly temperature over the reference period.
-
-# [Project 3: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
