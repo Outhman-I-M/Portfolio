@@ -1,5 +1,5 @@
 # Pa Ousman Ceesay
-*An Aspiring Data Analyst | Statistician by profession*
+*An Aspiring Machine Learning Engineer | Statistician by profession*
 
 # Education
 * Bachelors of Science (Economics), *University of The Gambia*, 2011-2015
