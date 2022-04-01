@@ -5,7 +5,7 @@
 * Bachelors of Science (Economics), *University of The Gambia*, 2011-2015
 
 # [Project 1: The Gambia 2021 Election Registration Data Analysis](https://outhman-i-m.github.io/Election-2021/)
-![alt text](20211203_111526.mp4)
+![Interactive map gif](20211203_111526.gif)
 
 Video by Author
 
@@ -15,7 +15,7 @@ This project gives detailed information about The Gambia Election 2021 Registrat
 * **Output:** Interactive map of number of registered voters, constituencies, and polling stations in each administrative area
 
 # Project 2: Average Temperature in The Gambia, 1991-2020
-![alt text](Gam_Temp_1991_2020.gif)
+![Graph showing temperature](Gam_Temp_1991_2020.gif)
 
 Photo by Author
 
