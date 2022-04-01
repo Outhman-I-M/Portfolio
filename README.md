@@ -5,9 +5,9 @@
 * Bachelors of Science (Economics), *University of The Gambia*, 2011-2015
 
 # [Project 1: The Gambia 2021 Election Registration Data Analysis](https://outhman-i-m.github.io/Election-2021/)
-![alt text](Know Your Electorate_Registration.png)
+![alt text](20211203_111526.mp4)
 
-Photo by Author
+Video by Author
 
 This project gives detailed information about The Gambia Election 2021 Registration Statistics via an interactive map
 * **Python libraries used:** Pandas, Geopandas, Plotly
